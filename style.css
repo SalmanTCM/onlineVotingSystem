@@ -1,0 +1,51 @@
+body{
+    background: #494949;
+}
+
+.btn{
+    background: #494949;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+.login h2{
+    color: #494949;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+
+
+
+.index_full{
+    display: flex;
+    width: 100%;
+   
+}
+.logo{
+    width: 30%;
+}
+.login{
+    width: 50%;
+    height: 80%;
+    border: 1px solid #fff;
+    padding: 10px;
+    margin: 70px;
+    border-radius: 25px;
+}
+
+/* Registration */
+.registration{
+    width: 50%;
+    height: 80%;
+    border: 1px solid #fff;
+    padding: 10px;
+    margin: 70px;
+    border-radius: 25px;
+}
